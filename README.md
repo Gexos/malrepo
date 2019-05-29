@@ -9,8 +9,10 @@ This repository contains dangerous malware Do NOT run them unless you are absolu
 Some other places where you can download malware samples:
 
  - https://malshare.com/
- - http://dasmalwerk.eu/ http://virusshare.com/  
- - https://urlhaus.abuse.ch/browse/ https://github.com/ytisf/theZoo   
+ - http://dasmalwerk.eu/ 
+ - http://virusshare.com/  
+ - https://urlhaus.abuse.ch/browse/ 
+ - https://github.com/ytisf/theZoo   
  - https://github.com/Endermanch/MalwareDatabase   
  - https://github.com/fabrimagic72/malware-samples
 
