@@ -8,10 +8,11 @@ This repository contains dangerous malware Do NOT run them unless you are absolu
 ## Links
 Some other places where you can download malware samples:
 
- 1. https://malshare.com/ http://dasmalwerk.eu/ http://virusshare.com/  
-    https://urlhaus.abuse.ch/browse/ https://github.com/ytisf/theZoo   
-    https://github.com/Endermanch/MalwareDatabase   
-    https://github.com/fabrimagic72/malware-samples
+ - https://malshare.com/
+ - http://dasmalwerk.eu/ http://virusshare.com/  
+ - https://urlhaus.abuse.ch/browse/ https://github.com/ytisf/theZoo   
+ - https://github.com/Endermanch/MalwareDatabase   
+ - https://github.com/fabrimagic72/malware-samples
 
 ## Sources
 You can [read this article](https://null-byte.wonderhowto.com/how-to/hack-like-pro-capturing-zero-day-exploits-wild-with-dionaea-honeypot-part-1-0165708/) on how to setup DIONAEA honeypot.
